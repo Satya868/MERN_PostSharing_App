@@ -1,0 +1,31 @@
+.oops{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(233,201,10,1) 0%, rgba(69,175,106,0.6530987394957983) 100%, rgba(84,6,26,1) 100%, rgba(0,255,226,1) 100%);
+}
+.Me1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   
+}
+.Me-main{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+.Me-main>h2{
+    font-weight: 900;
+    color: rgb(51, 46, 46);
+}
+.me>div{
+    font-size: larger;
+    font-weight: bolder;
+}
+.me>a{
+    text-decoration: none;
+    color: rgb(9, 24, 245);
+}
+.me{
+    margin-top: 1rem;
+}

@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  
+}
+.myblog{
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(233,201,10,1) 0%, rgba(69,175,106,0.6530987394957983) 100%, rgba(84,6,26,1) 100%, rgba(0,255,226,1) 100%);
+}
+.blogs{
+  background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(244,67,115,1) 52%, rgba(70,252,238,1) 100%);
+}
